@@ -2,8 +2,10 @@
 Ordenar una matríz grande (10k x 10k)
 
 ## Autores:
-Carlos David
-José Ernesto Carreño Bueno
+<pre>
+  José Ernesto Carreño Bueno
+  Carlos David Rodriguez Suarez
+</pre>
 
 ## Instrucciones de compilación
 
